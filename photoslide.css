@@ -3,10 +3,10 @@
 body {background: #ccc;}
 
 .slider{
-	width: 640px; /*Same as width of the large image*/
+	width: 635px; /*Same as width of the large image*/
 	position: relative;
 	/*Instead of height we will use padding*/
-	padding-top: 320px; /*That helps bring the labels down*/
+	padding-top: 450px; /*That helps bring the labels down*/
 	
 	margin: 100px auto;
 	
